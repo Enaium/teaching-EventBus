@@ -1,4 +1,4 @@
-package cn.enaium.learn.eventbus;
+package cn.enaium.learn.event;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

@@ -1,4 +1,4 @@
-package cn.enaium.learn.eventbus;
+package cn.enaium.learn.event;
 
 import java.lang.reflect.Method;
 import java.util.Collections;

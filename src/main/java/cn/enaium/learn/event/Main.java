@@ -1,6 +1,6 @@
-package cn.enaium.learn.eventbus;
+package cn.enaium.learn.event;
 
-import cn.enaium.learn.eventbus.events.UpdateEvent;
+import cn.enaium.learn.event.events.UpdateEvent;
 
 /**
  * Project: EventBus
