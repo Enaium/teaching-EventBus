@@ -1,0 +1,10 @@
+plugins {
+    id 'java'
+}
+
+group 'cn.enaium.learn'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
